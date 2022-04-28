@@ -1,0 +1,9 @@
+{
+    "name": "PySignageApi",
+    "content_in_root": false,
+    "zip_release": false,
+    "render_readme": false,
+    "domains": ["switch", "button"],
+    "country": "DE",
+    "homeassistant": "2021.12"
+}
