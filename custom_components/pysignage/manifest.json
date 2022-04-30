@@ -2,7 +2,7 @@
   "domain": "pysignage",
   "name": "pysignage",
   "documentation": "https://github.com/2000game/pysignageapi",
-  "requirements": ["DateTimeRange==1.2.0", "git+https://github.com/2000game/pysignageapi.git@master#pysignageserver==1.0.92"],
+  "requirements": ["DateTimeRange==1.2.0", "git+https://github.com/2000game/pysignageapi.git@master#pysignageserver==1.0.91"],
   "codeowners": ["@2000game"],
   "iot_class": "local_polling",
   "version": "1",
