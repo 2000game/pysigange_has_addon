@@ -5,7 +5,7 @@
   "requirements": ["DateTimeRange==1.2.0", "git+https://github.com/2000game/pysignageapi.git@master#pysignageserver==1.1.0"],
   "codeowners": ["@2000game"],
   "iot_class": "local_polling",
-  "version": "1",
+  "version": "1.0.1",
   "config_flow": true,
   "loggers": [
     {
